@@ -24,6 +24,11 @@ To explore and compare servo control using a microcontroller (Arduino) and a sim
 
 ---
 
+##  Software Used
+- Proteus simulation software
+
+---
+
 ##  Project Versions
 
 ###  Version 1: Without Arduino
