@@ -26,7 +26,7 @@ To explore and compare servo control using a microcontroller (Arduino) and a sim
 
 ##  Project Versions
 
-### 🔹 Version 1: Without Arduino
+###  Version 1: Without Arduino
 - Built using only a **555 Timer in astable mode**
 - Controls servo motor via PWM signal
 - The duty cycle is tuned using resistors & capacitors
