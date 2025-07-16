@@ -46,16 +46,7 @@ To explore and compare servo control using a microcontroller (Arduino) and a sim
 
 ---
 
-##  Files in this Repo
 
-| File Name                         | Description                          |
-|----------------------------------|--------------------------------------|
-| `servo_control_555_timer.png`    | Schematic image for 555 Timer circuit |
-| `servo_control_arduino.ino`      | Arduino code to control the servo    |
-| `README.md`                      | This documentation                   |
-| `servo_timer_simulation.dsn`     | (Optional) Proteus simulation file   |
-
----
 
 ##  Output
 
